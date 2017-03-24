@@ -1,0 +1,4 @@
+twitter4j.oauth.consumerKey;<fill with your data>
+twitter4j.oauth.consumerSecret;<fill with your data>
+twitter4j.oauth.accessToken;<fill with your data>
+twitter4j.oauth.accessTokenSecret;<fill with your data>
